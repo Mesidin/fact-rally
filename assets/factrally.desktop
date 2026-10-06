@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Fact Rally
+Comment=Math facts. Reach the gate.
+Exec=factrally
+Icon=factrally
+Terminal=false
+Categories=Game;Education;
